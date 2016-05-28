@@ -1,0 +1,16 @@
+machine_learning/tools/feature_format.pyc
+machine_learning/tools/parse_out_email_text.pyc
+machine_learning/outliers/outlier_cleaner.pyc
+machine_learning/choose_your_own/prep_terrain_data.pyc
+machine_learning/enron_mail_20110402.tgz
+machine_learning/enron_mail_20110402/
+machine_learning/text_learning/your_word_data.pkl
+machine_learning/text_learning/your_email_authors.pkl
+machine_learning/tools/*
+machine_learning/maildir/*	
+machine_learning/lfw-funneled.tar
+machine_learning/lfw-funneled.tgz
+
+my_classifier.pkl
+my_dataset.pkl
+my_feature_list.pkl
