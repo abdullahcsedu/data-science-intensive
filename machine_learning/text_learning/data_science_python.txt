@@ -1,7 +1,0 @@
-git 
-linux
-basics of Data science course
-under standing machine learning 
-how to full data science process words comfortablility and performance
-
-degree of comfort in commandlline python
